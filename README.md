@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ansh Dhama 👋
 
-<!--
-**Ansh-dhama/Ansh-dhama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ansh-dhama.Ansh-dhama)
 
-Here are some ideas to get you started:
+## 🚀 Portfolio  
+[Visit My Portfolio](https://Ansh-dhama.github.io/personal-portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💻 About Me  
+- 🎓 B.Tech CSE Student at NIET  
+- 🔥 Learning **DSA | DBMS | OS | AI**  
+- 🤝 Open to internships & collaborations  
+
+## 🛠️ Tech Stack  
+HTML • CSS • JavaScript • Node.js • Java • MySQL
+
+## 🌍 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/ansh-dhama)  
+- 📧 dhamaansh19@gmail.com
+
+## 📈 GitHub Stats  
+
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansh-dhama&show_icons=true&theme=radical)
