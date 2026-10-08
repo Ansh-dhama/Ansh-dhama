@@ -1,38 +1,71 @@
-# Hi, I'm Ansh Dhama 👋
+# Header Banner
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Ansh%20Dhama&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Distributed%20Systems%20%7C%20CSE%20Undergrad&descAlignY=62&descSize=19" width="100%"/>
+</div>
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Ansh-dhama.Ansh-dhama)
+<div align="center">
 
-## 👨‍💻 About Me
+  <!-- Badges -->
+  <a href="https://linkedin.com/in/ansh-dhama-java">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dhamaansh19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Ansh-dhama">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://codolio.com/profile/anshdhamaa">
+    <img src="https://img.shields.io/badge/Codolio-Profile-4B8BBE?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" />
+  </a>
+  <a href="https://codolio.com/profile/anshdhamaa">
+    <img src="https://img.shields.io/badge/DSA-800%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
 
-I am a **B.Tech Computer Science and Engineering student at NIET** with a strong interest in backend development, data structures, databases, and software engineering.
+</div>
 
-* 🎓 Pursuing B.Tech in Computer Science and Engineering at **NIET**
-* 💼 Working as a **Software Development Intern at GoPrimeLink Technology**
-* ☕ Developing backend applications using **Java and Spring Boot**
-* 🧠 Strengthening my problem-solving skills through **Data Structures and Algorithms**
-* 📚 Building a strong foundation in **DBMS and Operating Systems**
-* 🚀 Interested in backend development, scalable systems, and software engineering
+<br/>
 
-## 🛠️ Technical Skills
+---
 
-* **Programming Language:** Java
-* **Backend Development:** Spring Boot
-* **Computer Science Fundamentals:** Data Structures and Algorithms, DBMS, Operating Systems
-* **Tools and Platforms:** Git, GitHub
+### 👨‍💻 About Me
 
-## 🚀 Portfolio
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-Explore my projects, skills, and development journey:
+```yaml
+Name     : Ansh Dhama
+College  : Noida Institute of Engineering & Technology (NIET)
+Year     : B.Tech CSE (Expected 2028)
+Role     : Java Backend Developer & Systems Enthusiast
+Location : Greater Noida, India
 
-[Visit My Portfolio](https://Ansh-dhama.github.io/personal-portfolio/)
+Focus:
+  - High-throughput backend systems & distributed architectures
+  - Core Java internals, concurrency, and JVM optimization
+  - Solving complex data structures & algorithmic challenges
 
-## 🤝 Connect With Me
+Currently:
+  - Building scalable microservices with Spring Boot & Kafka
+  - Deepening knowledge in low-level networking & storage engines
+  - Open to Backend Developer & Engineering roles
+🚀 Backend Intern Experience: Engineered delivery-platform REST APIs, RBAC authentication, and service persistence at GoPrimeLink Technology.
 
-* [LinkedIn](https://www.linkedin.com/in/ansh-dhama)
-* 📧 [dhamaansh19@gmail.com](mailto:dhamaansh19@gmail.com)
+🧩 DSA Enthusiast: Solved 800+ algorithmic problems across competitive programming platforms.
 
-## 📊 GitHub Statistics
+⚙️ Low-Level Projects: Built a custom TCP in-memory server adhering to the Redis Serialization Protocol (RESP).
 
-![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansh-dhama\&show_icons=true\&theme=radical)
+🎯 Target: Backend / Systems Engineer roles building resilient, high-concurrency systems.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-dhama\&layout=compact\&theme=radical)
+🛠️ Tech Stack & Tools
+Languages
+
+Backend & Frameworks
+
+Databases, Caching & Streaming
+
+Tools & DevOps
+
+📌 Featured Projects
+📊 GitHub Activity
