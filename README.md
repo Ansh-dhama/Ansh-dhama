@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Ansh+Dhama+%F0%9F%91%8B;Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Redis+%7C+Kafka+%7C+SQL;600%2B+DSA+Problems+Solved+%F0%9F%92%A1;Currently+Learning+Generative+%2F+Applied+AI+%F0%9F%8C%9F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Ansh+Dhama+%F0%9F%91%8B;Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Redis+%7C+Kafka+%7C+SQL;800%2B+DSA+Problems+Solved+%F0%9F%92%A1;Generative+%2F+Applied+AI+Roadmap+Completed+%F0%9F%8C%9F" alt="Typing SVG" />
   </a>
 </div>
 
@@ -41,14 +41,16 @@ Focus:
 
 Currently:
   - Strengthening Java/Spring interview depth
-  - Learning Generative / Applied AI
-  - Building production-oriented backend projects
+  - Practicing High-Level Design (HLD)
+  - Building Java Backend + AI production projects
 ```
 
 - 💻 Backend development: **Java, Spring Boot, Spring Security, REST APIs**
-- 🧠 Problem solving: **600+ DSA problems** solved using Java
+- 🧠 Problem solving: **800+ DSA problems** solved using Java
 - 🛠️ Projects: **Mini Redis, PhoneWallet, LogiTrack**
 - 💼 Experience: Remote **Backend Developer Intern** at GoPrimeLink Technology (Feb–Apr 2026)
+- ✅ LLD: **Completed** core concepts, design patterns and practice
+- 🤖 Generative / Applied AI: **Completed roadmap** covering LLMs, RAG, agents and Spring AI
 - 🎯 Career direction: **Java Backend Engineer + Generative/Applied AI Engineer**
 
 <br clear="right"/>
@@ -149,18 +151,18 @@ Currently:
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Applied GenAI — Learning Track
-![Status](https://img.shields.io/badge/Status-Learning-38BDF8?style=flat-square)
+### 🤖 Generative / Applied AI
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Backend_%2B_AI-6DB33F?style=flat-square)
 
-> Extending my backend engineering skills toward production-oriented Generative / Applied AI systems.
+> Completed my Generative / Applied AI roadmap with a focus on production-oriented AI systems that integrate with backend applications.
 
-**Current Focus:** `Python` `LLM Fundamentals` `RAG` `LangGraph` `Spring AI`
+**Covered:** `Python` `LLM Fundamentals` `RAG` `LangGraph` `Spring AI`
 
-- 🧠 LLM and Transformer fundamentals
-- 🔎 Embeddings, vector search and RAG
-- 🛠️ Tool calling and agentic workflows
-- ☕ Spring AI integration with Java backend systems
+- 🧠 Covered LLM and Transformer fundamentals
+- 🔎 Implemented embeddings, vector search and RAG concepts
+- 🛠️ Practiced tool calling, LangGraph and agentic workflows
+- ☕ Learned Spring AI integration with Java backend systems
 
 </td>
 </tr>
@@ -176,9 +178,11 @@ Currently:
 
 | 🏅 | Achievement | 📊 Result |
 |:---:|---|:---:|
-| 💡 | **Data Structures & Algorithms** | **600+ problems solved** |
+| 💡 | **Data Structures & Algorithms** | **800+ problems solved** |
 | ☕ | **Primary problem-solving language** | **Java** |
 | 💼 | **Backend Developer Internship** | **GoPrimeLink Technology — Remote** |
+| 🧩 | **Low-Level Design (LLD)** | **Completed** |
+| 🤖 | **Generative / Applied AI Roadmap** | **Completed** |
 | 🚀 | **Backend Projects** | **Mini Redis · PhoneWallet · LogiTrack** |
 
 </div>
@@ -203,16 +207,16 @@ Currently:
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Current Focus
 
 <div align="center">
 
 | Technology / Area | Status |
 |---|:---:|
-| 🐍 **Python for AI** — core Python, APIs, type hints | 🔄 Learning |
-| 🤖 **Generative AI** — LLMs, Transformers, embeddings and RAG | 🔄 Learning |
-| 🧠 **Agentic AI** — LangGraph, tools, memory and workflows | 📋 Planned |
-| ☕ **Spring AI** — RAG and tool calling with Spring Boot | 📋 Planned |
+| 🏗️ **High-Level Design (HLD)** — scalability, caching, messaging, database design | 🔄 Practicing |
+| ☕ **Java/Spring Backend** — interview depth, concurrency, transactions, performance | 🔄 Revising |
+| 🤖 **AI Backend Engineering** — integrating RAG, agents and tools with backend services | 🔄 Building |
+| 🚢 **Deployment** — Docker, cloud deployment, monitoring and production practices | 📋 Next |
 
 </div>
 
@@ -222,10 +226,11 @@ Currently:
 
 ```text
 ✅  Build strong Java + Spring Boot fundamentals
-✅  Solve 600+ DSA problems using Java
+✅  Solve 800+ DSA problems using Java
 ✅  Build backend projects with Redis and Kafka
-🔄  Improve LLD and HLD interview skills
-🔄  Learn Generative / Applied AI
+✅  Complete Low-Level Design (LLD)
+🔄  Improve High-Level Design (HLD) interview skills
+✅  Complete Generative / Applied AI roadmap
 📋  Build a Java Backend + AI capstone project
 📋  Strengthen deployment and production engineering
 ```
@@ -240,6 +245,6 @@ Currently:
 
 **"Build deeply. Understand why. Keep improving."**
 
-⭐ *Focused on Java Backend Engineering, problem solving and Applied AI.* ⭐
+⭐ *Java Backend Engineering • 800+ DSA Problems • LLD • Generative / Applied AI* ⭐
 
 </div>
