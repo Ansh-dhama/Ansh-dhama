@@ -1,71 +1,45 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Ansh%20Dhama&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Distributed%20Systems%20%7C%20CSE%20Undergrad&descAlignY=62&descSize=19" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=220&section=header&text=Ansh%20Dhama&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=Java%20Backend%20Developer%20%7C%20Distributed%20Systems%20%7C%20800%2B%20DSA&descAlignY=65&descSize=18" width="100%" />
 </div>
 
 <div align="center">
-
-  <!-- Badges -->
   <a href="https://linkedin.com/in/ansh-dhama-java">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:dhamaansh19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/Ansh-dhama">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://codolio.com/profile/anshdhamaa">
-    <img src="https://img.shields.io/badge/Codolio-Profile-4B8BBE?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" />
+    <img src="https://img.shields.io/badge/CODOLIO-4B8BBE?style=for-the-badge&logo=codewars&logoColor=white" alt="Codolio" />
   </a>
   <a href="https://codolio.com/profile/anshdhamaa">
-    <img src="https://img.shields.io/badge/DSA-800%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/DSA-800%2B%20SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-
 </div>
 
 <br/>
 
----
-
 ### 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
+<img align="right" width="380" src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-working-on-web-development-illustration-download-in-svg-png-gif-file-formats--software-engineer-coding-pack-network-communication-illustrations-4378943.png" alt="Developer Illustration" />
 
-```yaml
+```text
 Name     : Ansh Dhama
 College  : Noida Institute of Engineering & Technology (NIET)
-Year     : B.Tech CSE (Expected 2028)
-Role     : Java Backend Developer & Systems Enthusiast
+Year     : 3rd Year (5th Sem) - B.Tech CSE
+Role     : Java Backend Developer + Competitive Programmer
 Location : Greater Noida, India
 
 Focus:
-  - High-throughput backend systems & distributed architectures
-  - Core Java internals, concurrency, and JVM optimization
-  - Solving complex data structures & algorithmic challenges
+  - Building high-throughput distributed systems & backend APIs
+  - Solving algorithmic data structures & concurrency problems
+  - Deep diving into JVM internals, memory management & networking
 
 Currently:
-  - Building scalable microservices with Spring Boot & Kafka
-  - Deepening knowledge in low-level networking & storage engines
-  - Open to Backend Developer & Engineering roles
-🚀 Backend Intern Experience: Engineered delivery-platform REST APIs, RBAC authentication, and service persistence at GoPrimeLink Technology.
-
-🧩 DSA Enthusiast: Solved 800+ algorithmic problems across competitive programming platforms.
-
-⚙️ Low-Level Projects: Built a custom TCP in-memory server adhering to the Redis Serialization Protocol (RESP).
-
-🎯 Target: Backend / Systems Engineer roles building resilient, high-concurrency systems.
-
-🛠️ Tech Stack & Tools
-Languages
-
-Backend & Frameworks
-
-Databases, Caching & Streaming
-
-Tools & DevOps
-
-📌 Featured Projects
-📊 GitHub Activity
+  - Working as Backend Developer Intern at GoPrimeLink Technology
+  - Designing low-level socket servers and distributed financial ledgers
+  - Targeting top product companies & backend engineering roles
+🚀 Built production REST APIs with Spring Boot, Spring Security & PostgreSQL at GoPrimeLink Technology🧩 800+ DSA problems solved across LeetCode & Codolio⚡ Engineered a Custom In-Memory TCP Server parsing the Redis Serialization Protocol (RESP)💳 Implemented an idempotent Digital Wallet & Ledger with Apache Kafka and double-entry consistency🎯 Goal: Backend / Distributed Systems Engineer at a high-scale tech company🛠️ Tech Stack & Tools🌐 Languages🖥️ Frontend⚙️ Backend & Database🧰 Tools & Platforms📌 Featured Projects🏆 Achievements & Competitive Programming🏅 Achievement📊 Result🧩 Problems Solved (All Platforms)800+ Problems Solved⚡ Platform ProfileCodolio: anshdhamaa💼 Internship TrackBackend Developer Intern at GoPrimeLink Technology🎓 Academic InstituteNoida Institute of Engineering & Technology (NIET)📚 Core SubjectsOS, DBMS, Computer Networks, OOP, Distributed Systems
