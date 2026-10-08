@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Ansh+Dhama+%F0%9F%91%8B;Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Redis+%7C+Kafka+%7C+SQL;800%2B+DSA+Problems+Solved+%F0%9F%92%A1;Generative+%2F+Applied+AI+Roadmap+Completed+%F0%9F%8C%9F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Ansh+Dhama+%F0%9F%91%8B;Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Redis+%7C+Kafka+%7C+SQL;800%2B+DSA+Problems+Solved+%F0%9F%92%A1;Building+Generative+%2F+Applied+AI+Skills+%F0%9F%8C%9F" alt="Typing SVG" />
   </a>
 </div>
 
@@ -47,10 +47,12 @@ Currently:
 
 - 💻 Backend development: **Java, Spring Boot, Spring Security, REST APIs**
 - 🧠 Problem solving: **800+ DSA problems** solved using Java
+- 🏅 LeetCode rating: **1700+**
+- 📈 Coding profile: [Codolio](https://codolio.com/profile/anshdhamaa)
 - 🛠️ Projects: **Mini Redis, PhoneWallet, LogiTrack**
 - 💼 Experience: Remote **Backend Developer Intern** at GoPrimeLink Technology (Feb–Apr 2026)
 - ✅ LLD: **Completed** core concepts, design patterns and practice
-- 🤖 Generative / Applied AI: **Completed roadmap** covering LLMs, RAG, agents and Spring AI
+- 🤖 Generative / Applied AI: **In progress** — learning LLMs, RAG, agents and Spring AI
 - 🎯 Career direction: **Java Backend Engineer + Generative/Applied AI Engineer**
 
 <br clear="right"/>
@@ -151,18 +153,18 @@ Currently:
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Generative / Applied AI
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+### 🤖 Generative / Applied AI — In Progress
+![Status](https://img.shields.io/badge/Status-In_Progress-38BDF8?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Backend_%2B_AI-6DB33F?style=flat-square)
 
-> Completed my Generative / Applied AI roadmap with a focus on production-oriented AI systems that integrate with backend applications.
+> Building practical Generative / Applied AI skills with a backend-first approach, focusing on systems that integrate naturally with Java and Spring Boot.
 
-**Covered:** `Python` `LLM Fundamentals` `RAG` `LangGraph` `Spring AI`
+**Current Track:** `Python` `LLM Fundamentals` `LangChain` `RAG` `LangGraph` `Spring AI`
 
-- 🧠 Covered LLM and Transformer fundamentals
-- 🔎 Implemented embeddings, vector search and RAG concepts
-- 🛠️ Practiced tool calling, LangGraph and agentic workflows
-- ☕ Learned Spring AI integration with Java backend systems
+- 🧠 Learning LLM and Transformer fundamentals
+- 🔎 Practicing embeddings, vector search and RAG
+- 🛠️ Progressing toward tool calling, LangGraph and agentic workflows
+- ☕ Planning deeper Spring AI integration with Java backend systems
 
 </td>
 </tr>
@@ -179,40 +181,31 @@ Currently:
 | 🏅 | Achievement | 📊 Result |
 |:---:|---|:---:|
 | 💡 | **Data Structures & Algorithms** | **800+ problems solved** |
+| 🏅 | **LeetCode Rating** | **1700+** |
 | ☕ | **Primary problem-solving language** | **Java** |
 | 💼 | **Backend Developer Internship** | **GoPrimeLink Technology — Remote** |
 | 🧩 | **Low-Level Design (LLD)** | **Completed** |
-| 🤖 | **Generative / Applied AI Roadmap** | **Completed** |
+| 🤖 | **Generative / Applied AI** | **In Progress** |
 | 🚀 | **Backend Projects** | **Mini Redis · PhoneWallet · LogiTrack** |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I'm Working On Now
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ansh-dhama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-dhama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" height="170"/>
+| Track | What I'm doing |
+|---|---|
+| ☕ **Java Backend** | Deepening Spring Boot, Spring Security, concurrency, transactions and backend interview topics |
+| 🧩 **System Design** | LLD completed; now improving HLD through real design problems |
+| 🤖 **Generative / Applied AI** | Learning LLMs, LangChain, RAG, LangGraph and Spring AI with hands-on practice |
+| 🚢 **Production Engineering** | Improving Docker, deployment, monitoring and backend reliability skills |
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ansh-dhama&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FB923C&currStreakLabel=38BDF8)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🚀 Current Focus
-
-<div align="center">
-
-| Technology / Area | Status |
-|---|:---:|
+---|:---:|
 | 🏗️ **High-Level Design (HLD)** — scalability, caching, messaging, database design | 🔄 Practicing |
 | ☕ **Java/Spring Backend** — interview depth, concurrency, transactions, performance | 🔄 Revising |
 | 🤖 **AI Backend Engineering** — integrating RAG, agents and tools with backend services | 🔄 Building |
@@ -230,7 +223,7 @@ Currently:
 ✅  Build backend projects with Redis and Kafka
 ✅  Complete Low-Level Design (LLD)
 🔄  Improve High-Level Design (HLD) interview skills
-✅  Complete Generative / Applied AI roadmap
+🔄  Build Generative / Applied AI skills through hands-on projects
 📋  Build a Java Backend + AI capstone project
 📋  Strengthen deployment and production engineering
 ```
@@ -243,8 +236,8 @@ Currently:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ansh-dhama&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
 
-**"Build deeply. Understand why. Keep improving."**
+**"Backend first. Systems thinking. AI next."**
 
-⭐ *Java Backend Engineering • 800+ DSA Problems • LLD • Generative / Applied AI* ⭐
+⭐ *Java Backend • 800+ DSA • LeetCode 1700+ • LLD Completed • GenAI In Progress* ⭐
 
 </div>
