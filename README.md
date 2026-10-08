@@ -1,58 +1,245 @@
-<!-- Header Banner -->
+<!-- Personalized GitHub Profile README for Ansh Dhama -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ansh%20Dhama&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Distributed%20Systems%20%7C%20800%2B%20DSA&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANSH%20DHAMA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=JAVA%20BACKEND%20DEVELOPER%20%7C%20SPRING%20BOOT%20%7C%20DSA&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
-<!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ansh+Dhama+%F0%9F%91%8B;Java+Backend+Developer+%F0%9F%9A%80;Distributed+Systems+%26+JVM+Internals+%E2%9A%94%EF%B8%8F;800%2B+DSA+Problems+Solved+%F0%9F%92%A1;Spring+Boot+3+%2B+Kafka+%2B+Redis+%F0%9F%8C%9F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Ansh+Dhama+%F0%9F%91%8B;Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Redis+%7C+Kafka+%7C+SQL;600%2B+DSA+Problems+Solved+%F0%9F%92%A1;Currently+Learning+Generative+%2F+Applied+AI+%F0%9F%8C%9F" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- Social Badges -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-dhama-java/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-dhama-java/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhamaansh19@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ansh-dhama)
-[![Codolio](https://img.shields.io/badge/Codolio-anshdhamaa-4B8BBE?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/anshdhamaa)
-[![LeetCode](https://img.shields.io/badge/LeetCode-800%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://codolio.com/profile/anshdhamaa)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dev_dhama/)
 
 </div>
-
-<br/>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding GIF" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```yaml
 Name     : Ansh Dhama
 College  : Noida Institute of Engineering and Technology (NIET)
-Year     : 3rd Year (5th Semester) - B.Tech CSE
-Role     : Java Backend Developer + Competitive Programmer
+Year     : B.Tech CSE | Expected Graduation: May 2028
+Role     : Java Backend Developer
 Location : Greater Noida, India
 
 Focus:
-  - High-throughput distributed systems & microservices
-  - Java 21, Virtual Threads, Concurrency & JVM Internals
-  - Algorithmic problem solving & low-level network servers
+  - Java, Spring Boot and backend development
+  - Data Structures & Algorithms
+  - SQL, Redis and Kafka
 
 Currently:
-  - Backend Developer Intern at GoPrimeLink Technology
-  - Building event-driven architectures with Kafka & Redis
-  - Open to Backend Engineering & Systems roles
-🔭 Projects: 4+ Production Backends — Custom Redis TCP server, Digital Wallet ledger, DTC Bus Scheduler, and Talent Verification engine🧠 DSA practice: LeetCode & Codolio — Consistent competitive programming & algorithmic practice⚔️ Problem solving: 800+ Problems Solved across competitive programming platforms🌐 Work Experience: Backend Developer Intern — GoPrimeLink Technology (REST APIs, RBAC Security & JPA persistence)🏆 Engineering: High-Concurrency Architectures — Double-entry ledgers, idempotent payments, and thread-safe TCP servers🎯 Career direction: Backend / Systems Engineer building resilient, large-scale distributed systems🛠️ Tech Stack & Tools💬 Languages🌐 Frontend⚙️ Backend & Database🔧 Tools & Platforms🚀 Featured Projects⚡ Mini Redis - Key-Value TCP ServerCustom concurrent TCP server accepting redis-cli connections, parsing the RESP protocol and loading RDB snapshots.Stack: Java TCP Sockets RESP Protocol Multithreading RDB Persistence⚡ High-throughput concurrent redis-cli connection handling via raw sockets⏱️ Thread-safe in-memory key-value store with SET PX millisecond TTL expiration💾 Custom binary RDB snapshot parsing to hydrate memory state on startup🧩 Decoupled socket multiplexing and command execution pipeline💳 PhoneWallet - Digital Ledger SystemFinancial wallet backend engineered for zero balance divergence and idempotent double-entry ledger bookkeeping.Stack: Java 17 Spring Boot 3 PostgreSQL Redis Apache Kafka🛡️ Strict double-entry DEBIT/CREDIT ledger tables ensuring zero divergence🔁 Idempotency keys across endpoints preventing duplicate transactions on retries⚡ Redis velocity rate-limiting and transaction verification controls📨 Kafka event pipelines for asynchronous payment updates and notification delivery🚌 DTC Bus Scheduling Engine (SIH 1612)High-concurrency transit route scheduling engine built for Delhi Transport Corporation fleet management.Stack: Java 21 Virtual Threads ForkJoinPool PostgreSQL Redis🧵 Leveraged Java 21 Virtual Threads to eliminate thread starvation during traffic peaks🔒 Pessimistic row locking on PostgreSQL to prevent conflicting driver and bus duty allocations⚡ In-memory Redis caching for rapid station lookups and duty availability⚙️ ForkJoinPool multithreaded logic for timetable route matching🤖 HireAI - Talent Ingestion MicroserviceAutonomous talent verification microservice analyzing resumes and developer GitHub profiles.Stack: Java 21 Spring Boot 3 Apache Tika REST Client MySQL📄 Multi-format resume parsing and text extraction using Apache Tika🔍 Background verification via GitHub REST APIs assessing activity and code contributions🛡️ Layered microservice architecture with DTO validation and robust error handling🌟 Production-ready endpoints ready for automated ATS candidate workflows🏆 Achievements & Competitive Programming🏅Achievement📊 Result💡DSA Problems Solved800+ Problems (LeetCode & Codolio)💼Internship TrackBackend Developer Intern (GoPrimeLink)🎓B.Tech CSENoida Institute of Engineering & Technology (NIET)🔗Coding ProfileCodolio: anshdhamaa📘Core FundamentalsOperating Systems, DBMS, Computer Networks, OOP📊 GitHub Stats🌱 Currently LearningTechnologyStatus Virtual Threads & Structured Concurrency — High-throughput IO non-blocking models🚀 In Progress JVM Memory Architecture & GC Tuning — Profiling ZGC, G1, and memory leaks🔍 Deep Diving Distributed Event Streaming — Idempotent consumer groups & topic partitions⚡ Practicing Microservices Containerization — Multi-stage builds and Docker Compose pipelines🛠️ Active🎯 2026 Goals✅  800+ Algorithmic Problems Solved       → LeetCode & Codolio
-✅  Backend Developer Internship           → GoPrimeLink Technology
-✅  Custom RESP In-Memory Key-Value Server → Low-Level TCP Architecture
-🔄  Distributed Systems & Kafka Pipelines  → Double-Entry Payment Engines
-🔄  Java 21 Virtual Threads & Concurrency  → JVM Memory & Thread Tuning
-📋  Advanced System Design Mastery         → Low-Level & High-Level Design
-📋  Full Microservices Orchestration       → Production Container Deployment
-📋  Target Top Backend Engineering Roles   → Product Companies
-🐍 Contribution Graph"Driven by clean code, low-latency architectures, and deep algorithmic problem solving."
+  - Strengthening Java/Spring interview depth
+  - Learning Generative / Applied AI
+  - Building production-oriented backend projects
+```
+
+- 💻 Backend development: **Java, Spring Boot, Spring Security, REST APIs**
+- 🧠 Problem solving: **600+ DSA problems** solved using Java
+- 🛠️ Projects: **Mini Redis, PhoneWallet, LogiTrack**
+- 💼 Experience: Remote **Backend Developer Intern** at GoPrimeLink Technology (Feb–Apr 2026)
+- 🎯 Career direction: **Java Backend Engineer + Generative/Applied AI Engineer**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💬 Languages
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+### ⚙️ Backend & Databases
+<div align="center">
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+
+</div>
+
+### 🔧 Tools & Platforms
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Mini Redis
+[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-181717?style=flat-square&logo=github)](https://github.com/Ansh-dhama)
+
+> Redis-like key-value server implemented in Java to understand networking, RESP, persistence and replication concepts.
+
+**Stack:** `Java` `TCP Sockets` `RESP` `RDB`
+
+- 🔌 Built a TCP server supporting persistent `redis-cli` connections
+- ⚙️ Implemented `PING`, `ECHO`, `SET`, `GET` and command dispatching
+- ⏱️ Added `SET PX` key expiry
+- 💾 Added RDB snapshot loading and replication-related components
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 PhoneWallet
+[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-181717?style=flat-square&logo=github)](https://github.com/Ansh-dhama)
+
+> Digital wallet backend for transfers, merchant payments, refunds, ledger management and secure transaction workflows.
+
+**Stack:** `Java` `Spring Boot` `PostgreSQL` `Redis` `Kafka`
+
+- 💸 Implemented wallet transfers, merchant payments, refunds and reversals
+- 📒 Designed DEBIT/CREDIT ledger entries and balance tracking
+- 🔐 Secured APIs using Spring Security, JWT and role-based access
+- ⚡ Used Redis for transaction checks/rate limiting and Kafka for async events
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚚 LogiTrack
+[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-181717?style=flat-square&logo=github)](https://github.com/Ansh-dhama)
+
+> Logistics management backend for shipment creation, tracking, status updates and secured logistics workflows.
+
+**Stack:** `Java` `Spring Boot` `Spring Data JPA` `SQL` `JWT`
+
+- 📦 Developed shipment-management REST APIs
+- 🧱 Used controller-service-repository architecture
+- 🔐 Protected endpoints with Spring Security and JWT
+- 🧪 Documented and tested APIs using Swagger/OpenAPI and Postman
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Applied GenAI — Learning Track
+![Status](https://img.shields.io/badge/Status-Learning-38BDF8?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Backend_%2B_AI-6DB33F?style=flat-square)
+
+> Extending my backend engineering skills toward production-oriented Generative / Applied AI systems.
+
+**Current Focus:** `Python` `LLM Fundamentals` `RAG` `LangGraph` `Spring AI`
+
+- 🧠 LLM and Transformer fundamentals
+- 🔎 Embeddings, vector search and RAG
+- 🛠️ Tool calling and agentic workflows
+- ☕ Spring AI integration with Java backend systems
+
+</td>
+</tr>
+</table>
+
+> **Note:** Project badges currently point to the GitHub profile. Replace them with exact repository URLs once you confirm the repository names.
+
+---
+
+## 🏆 Achievements & Problem Solving
+
+<div align="center">
+
+| 🏅 | Achievement | 📊 Result |
+|:---:|---|:---:|
+| 💡 | **Data Structures & Algorithms** | **600+ problems solved** |
+| ☕ | **Primary problem-solving language** | **Java** |
+| 💼 | **Backend Developer Internship** | **GoPrimeLink Technology — Remote** |
+| 🚀 | **Backend Projects** | **Mini Redis · PhoneWallet · LogiTrack** |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ansh-dhama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-dhama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" height="170"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ansh-dhama&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FB923C&currStreakLabel=38BDF8)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+| Technology / Area | Status |
+|---|:---:|
+| 🐍 **Python for AI** — core Python, APIs, type hints | 🔄 Learning |
+| 🤖 **Generative AI** — LLMs, Transformers, embeddings and RAG | 🔄 Learning |
+| 🧠 **Agentic AI** — LangGraph, tools, memory and workflows | 📋 Planned |
+| ☕ **Spring AI** — RAG and tool calling with Spring Boot | 📋 Planned |
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+```text
+✅  Build strong Java + Spring Boot fundamentals
+✅  Solve 600+ DSA problems using Java
+✅  Build backend projects with Redis and Kafka
+🔄  Improve LLD and HLD interview skills
+🔄  Learn Generative / Applied AI
+📋  Build a Java Backend + AI capstone project
+📋  Strengthen deployment and production engineering
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ansh-dhama&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
+
+**"Build deeply. Understand why. Keep improving."**
+
+⭐ *Focused on Java Backend Engineering, problem solving and Applied AI.* ⭐
+
+</div>
