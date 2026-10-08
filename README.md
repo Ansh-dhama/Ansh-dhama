@@ -48,6 +48,7 @@ Currently:
 - 💻 Backend development: **Java, Spring Boot, Spring Security, REST APIs**
 - 🧠 Problem solving: **800+ DSA problems** solved using Java
 - 🏅 LeetCode rating: **1700+**
+- 📊 Codolio ID: **anshdhamaa** — [View Profile](https://codolio.com/profile/anshdhamaa)
 - 📈 Coding profile: [Codolio](https://codolio.com/profile/anshdhamaa)
 - 🛠️ Projects: **Mini Redis, PhoneWallet, LogiTrack**
 - 💼 Experience: Remote **Backend Developer Intern** at GoPrimeLink Technology (Feb–Apr 2026)
