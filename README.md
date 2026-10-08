@@ -1,4 +1,4 @@
-# Header Banner
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Ansh%20Dhama&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Distributed%20Systems%20%7C%20CSE%20Undergrad&descAlignY=62&descSize=19" width="100%"/>
 </div>
