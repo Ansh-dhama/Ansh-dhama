@@ -30,7 +30,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Black and green Java backend developer illustration with an animated terminal cursor" width="330" src="assets/developer.svg"/>
+<img align="right" alt="Black and green Java backend developer illustration with an animated terminal cursor" width="330" src="developer.svg"/>
 
 ```yaml
 Name     : Ansh Dhama
