@@ -1,12 +1,12 @@
 <!-- Personalized GitHub Profile README for Ansh Dhama -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANSH%20DHAMA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=JAVA%20BACKEND%20DEVELOPER%20%7C%20SPRING%20BOOT%20%7C%20DSA&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0%3A050A07%2C100%3A102A1D&amp;height=200&amp;section=header&amp;text=ANSH+DHAMA&amp;fontSize=50&amp;fontColor=00FF88&amp;animation=fadeIn&amp;fontAlignY=42&amp;desc=JAVA+BACKEND+DEVELOPER+%7C+SPRING+BOOT+%7C+DSA&amp;descAlignY=64&amp;descSize=16" width="100%" alt="Ansh Dhama — Java Backend Developer"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Ansh+Dhama+%F0%9F%91%8B;Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Redis+%7C+Kafka+%7C+SQL;800%2B+DSA+Problems+Solved+%F0%9F%92%A1;Building+Generative+%2F+Applied+AI+Skills+%F0%9F%8C%9F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Ansh+Dhama+%F0%9F%91%8B;Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Redis+%7C+Kafka+%7C+SQL;800%2B+DSA+Problems+Solved+%F0%9F%92%A1;Building+Generative+%2F+Applied+AI+Skills+%F0%9F%8C%9F" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,7 +30,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Black and green Java backend developer illustration with an animated terminal cursor" width="330" src="assets/developer.svg"/>
 
 ```yaml
 Name     : Ansh Dhama
@@ -160,7 +160,7 @@ Currently:
 <td width="50%" valign="top">
 
 ### 🤖 Generative / Applied AI — In Progress
-![Status](https://img.shields.io/badge/Status-In_Progress-38BDF8?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In_Progress-00FF88?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Backend_%2B_AI-6DB33F?style=flat-square)
 
 > Building practical Generative / Applied AI skills with a backend-first approach, focusing on systems that integrate naturally with Java and Spring Boot.
@@ -211,7 +211,10 @@ Currently:
 
 </div>
 
----|:---:|
+<div align="center">
+
+| Focus | Status |
+|---|:---:|
 | 🏗️ **High-Level Design (HLD)** — scalability, caching, messaging, database design | 🔄 Practicing |
 | ☕ **Java/Spring Backend** — interview depth, concurrency, transactions, performance | 🔄 Revising |
 | 🤖 **AI Backend Engineering** — integrating RAG, agents and tools with backend services | 🔄 Building |
@@ -238,9 +241,9 @@ Currently:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A050A07%2C100%3A102A1D&amp;height=100&amp;section=footer" width="100%" alt="Black and green footer"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ansh-dhama&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Ansh-dhama&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS)
 
 **"Backend first. Systems thinking. AI next."**
 
