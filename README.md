@@ -19,7 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-dhama-java/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhamaansh19@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ansh-dhama)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1700%2B_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dev_dhama/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%2B_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dev_dhama/)
 [![Codolio](https://img.shields.io/badge/Codolio-anshdhamaa-7C3AED?style=for-the-badge)](https://codolio.com/profile/anshdhamaa)
 
 </div>
@@ -52,7 +52,7 @@ Currently:
 
 - 💻 Backend development: **Java, Spring Boot, Spring Security, REST APIs**
 - 🧠 Problem solving: **800+ DSA problems** solved using Java
-- 🏅 LeetCode rating: **1700+**
+- 🏅 LeetCode rating: **1800+**
 - 📊 Codolio ID: **anshdhamaa** — [View Profile](https://codolio.com/profile/anshdhamaa)
 - 📈 Coding profile: [Codolio](https://codolio.com/profile/anshdhamaa)
 - 🛠️ Projects: **Mini Redis, PhoneWallet, LogiTrack**
@@ -187,7 +187,7 @@ Currently:
 | 🏅 | Achievement | 📊 Result |
 |:---:|---|:---:|
 | 💡 | **Data Structures & Algorithms** | **800+ problems solved** |
-| 🏅 | **LeetCode Rating** | **1700+** |
+| 🏅 | **LeetCode Rating** | **1800+** |
 | ☕ | **Primary problem-solving language** | **Java** |
 | 💼 | **Backend Developer Internship** | **GoPrimeLink Technology — Remote** |
 | 🧩 | **Low-Level Design (LLD)** | **Completed** |
@@ -247,6 +247,6 @@ Currently:
 
 **"Backend first. Systems thinking. AI next."**
 
-⭐ *Java Backend • 800+ DSA • LeetCode 1700+ • LLD Completed • GenAI In Progress* ⭐
+⭐ *Java Backend • 800+ DSA • LeetCode 1800+ • LLD Completed • GenAI In Progress* ⭐
 
 </div>
