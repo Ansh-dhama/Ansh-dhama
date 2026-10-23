@@ -13,16 +13,13 @@
 <br/>
 
 <div align="center">
-<div align="center">
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-dhama-java/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhamaansh19@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ansh-dhama)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%2B_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dev_dhama/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1800%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dev_dhama/)
 [![Codolio](https://img.shields.io/badge/Codolio-anshdhamaa-7C3AED?style=for-the-badge)](https://codolio.com/profile/anshdhamaa)
-
-</div>
 
 </div>
 
@@ -56,7 +53,7 @@ Currently:
 - 📊 Codolio ID: **anshdhamaa** — [View Profile](https://codolio.com/profile/anshdhamaa)
 - 📈 Coding profile: [Codolio](https://codolio.com/profile/anshdhamaa)
 - 🛠️ Projects: **Mini Redis, PhoneWallet, LogiTrack**
-- 💼 Experience: Remote **Backend Developer Intern** at GoPrimeLink Technology (Feb–Apr 2026)
+- 💼 Experience: Remote **Backend Developer Intern** at GoPrimeLink Technology (Jan–Mar 2026)
 - ✅ LLD: **Completed** core concepts, design patterns and practice
 - 🤖 Generative / Applied AI: **In progress** — learning LLMs, RAG, agents and Spring AI
 - 🎯 Career direction: **Java Backend Engineer + Generative/Applied AI Engineer**
@@ -243,7 +240,7 @@ Currently:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A050A07%2C100%3A102A1D&amp;height=100&amp;section=footer" width="100%" alt="Black and green footer"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ansh-dhama&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ansh-dhama&label=Profile%20Views&color=00ff88&style=flat-square)](https://github.com/Ansh-dhama)
 
 **"Backend first. Systems thinking. AI next."**
 
